@@ -1,4 +1,4 @@
-package com.forezp.serviceribbon.controller;
+package com.forezp.serviceribbon.web;
 
 import com.forezp.serviceribbon.service.HelloService;
 import org.springframework.beans.factory.annotation.Autowired;
